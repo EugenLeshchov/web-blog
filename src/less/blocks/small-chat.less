@@ -1,0 +1,137 @@
+.small-chat {
+
+  &--window {
+    background-color: white;
+    padding: 10px;
+    max-height: 400px;
+    overflow-y: auto;
+
+    .comments {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+
+      .comment {
+        display: flex;
+        margin: 15px 5px 5px;
+        position: relative;
+
+        &-avatar {
+          width: 32px;
+          height: 32px;
+          background: @aluminium;
+          cursor: pointer;
+        }
+
+        &-text {
+          font-size: 12px;
+          padding: 5px;
+          display: inline-block;
+          min-height: 32px;
+          max-width: 70%;
+          transition: .3s;
+        }
+        
+        &__my {
+          align-self: flex-start;
+
+          .comment-info {
+            color: @aluminium;
+            font-size: 10px;
+            top: -1.2em;
+            position: absolute;
+          }
+
+          .comment-text {
+            background-color: @aluminium;
+
+            &:hover, &__active {
+              color: white;
+              background-color: darken(@coral, 15%);
+            }
+          }
+        }
+
+        &__their {
+          align-self: flex-end;
+          display: flex;
+          justify-content: flex-end;
+
+          .comment-info {
+            color: @aluminium;
+            font-size: 10px;
+            top: -1.2em;
+            position: absolute;
+          }
+
+          .comment-avatar {
+            order: 2;
+          }
+
+          .comment-text {
+            background-color: @wisper;
+            order: 1;
+
+            &:hover, &__active {
+              color: white;
+              background-color: lighten(@coral, 5%);
+            }
+          }
+        }
+      }
+    }
+  }
+
+  &--input {
+    position: relative;
+    height: 40px;
+    transition: .3s;
+
+    border-top: 3px solid @aluminium;
+
+    &__focus {
+      border-top: 3px solid @coral;
+    }
+
+    .chat-input {
+      position: absolute;
+      top: 0;
+      padding: 0 10px;
+      height: 3em;
+      display: inline-block;
+      width: 85%;
+      outline: none;
+      border: none;
+    }
+
+    .chat-submit {
+      position: absolute;
+      top: 0;
+      right: 0;
+
+      display: inline-block;
+      padding-left: 10px;
+      height: 3em;
+      width: 15%;
+      background-color: @tuna;
+      border: none;
+      transition: .3s;
+
+      &:hover {
+        background-color: @coral;
+
+        #send {
+          fill: black;
+        }
+      }
+
+      #send {
+        width: 25px;
+        height: 25px;
+        fill: white;
+      }
+    }
+  }
+}

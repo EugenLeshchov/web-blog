@@ -1,0 +1,125 @@
+header {
+  position: relative;
+  margin-bottom: 15px;
+
+  .brand {
+    height: 76px;
+    background-color: @naval;
+
+    .container {
+      display: flex;
+      align-items: stretch;
+      justify-content: space-between;
+
+      a {
+        left: 1em;
+        margin: 8px 0;
+
+        text-decoration: none;
+        font-size: 55px;
+        font-weight: 100;
+        line-height: 60px;
+        color: @coral;
+
+        span {
+          color: white;
+          font-size: 55px;
+          font-weight: 900;
+          font-style: normal;
+        }
+      }
+
+      form {
+        position: absolute;
+        right: 120px;
+
+        height: 100%;
+        width: 50px;
+
+        text-align: center;
+        background-color: @tuna;
+        font-size: 20px;
+        border: none;
+        border-bottom: 3px solid @aluminium;
+        transition-duration: .3s;
+
+
+        img {
+          position: relative;
+          top: 24px;
+        }
+
+        input {
+          display: none;
+        }
+
+        &:hover {
+          background-color: darken(@tuna, 3%);
+          border-bottom: 3px solid @coral;
+          cursor: pointer;
+        }
+      }
+
+      .site-header--sign-in {
+        display: block;
+        margin: 0;
+        height: 76px;
+        width: 100px;
+
+        text-decoration: none;
+        line-height: 76px;
+        text-align: center;
+        color: white;
+        background-color: @tuna;
+        font-size: 23px;
+        font-weight: lighter;
+        border: none;
+        border-bottom: 3px solid @aluminium;
+        transition-duration: .3s;
+
+
+        &:focus {
+          outline: 0;
+        }
+
+        &:hover {
+          background-color: darken(@tuna, 3%);
+          border-bottom: 3px solid @coral;
+          cursor: pointer;
+        }
+      }
+    }
+  }
+
+  .category {
+    background-color: @tuna;
+
+    ul {
+      display: flex;
+      align-items: stretch;
+      justify-content: flex-start;
+      margin: 0;
+
+      padding-left: 0;
+      color: @coral;
+      list-style: none;
+
+      li {
+        padding: 10px 20px;
+        background-color: @naval;
+
+        border-bottom: 3px solid @naval;
+
+        transition-duration: .3s;
+        
+        &:hover {
+          color: black;
+          cursor: pointer;
+          background-color: @coral;
+          border-bottom: 3px solid @naval;
+        }
+      }
+    }
+
+  }
+}

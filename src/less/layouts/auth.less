@@ -1,0 +1,82 @@
+.page-auth {
+  width: 500px;
+  margin: 150px auto auto;
+  display: flex;
+  flex: auto;
+  align-items: flex-start;
+  justify-content: center;
+
+  .page-auth--sign-in {
+    flex-basis: 470px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    padding: 15px;
+    color: white;
+    background-color: @naval;
+
+    h1 {
+      font-size: 2em;
+      font-weight: lighter;
+      margin: 0 0 30px;
+    }
+
+    input {
+      color: white;
+
+      &.sign-in-email, &.sign-in-password {
+        width: 100%;
+      }
+    }
+  }
+
+  .page-auth--reg {
+    flex-basis: 500px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    padding: 15px;
+    width: 500px;
+    color: white;
+    background-color: @aluminium;
+
+    h3 {
+      margin: 10px 0 10px;
+      font-weight: 400;
+      color: @coral;
+    }
+
+    h1 {
+      margin: 0;
+      font-weight: lighter;
+    }
+
+    input {
+      color: black;
+
+      &.reg-email, &.reg-login, &.reg-password {
+        width: 100%;
+      }
+
+      &::-webkit-input-placeholder {
+        color: white;
+      }
+    }
+  }
+
+  input {
+    display: block;
+
+    margin: 10px 0;
+    padding: 10px;
+
+    outline: none;
+    font-size: 20px;
+    background-color: inherit;
+    border: none;
+    border-bottom: 2px solid white;
+    transition: .3s;
+    
+    &:focus {
+      border-bottom: 2px solid @coral;
+    }
+  }
+}

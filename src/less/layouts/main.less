@@ -1,0 +1,55 @@
+.main-page--content {
+  width: 100%;
+  margin-top: 20px;
+
+  .clearfix();
+
+  .posts {
+    width: 68%;
+    float: left;
+
+    &-category {
+      margin: 0 0 1em;
+      height: 44px;
+      border-bottom: 4px solid @aluminium;
+
+      &--list {
+        height: 44px;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+
+        li {
+          display: inline-block;
+
+          a {
+            height: 44px;
+            box-sizing: border-box;
+            display: inline-block;
+            padding: 0 20px;
+
+            color: black;
+            line-height: 40px;
+            font-size: 20px;
+            text-decoration: none;
+            background-color: lighten(@aluminium, 20%);
+            border-bottom: 4px solid @coral;
+            transition-duration: .3s;
+
+            &:hover {
+              cursor: pointer;
+              color: white;
+              background-color: @coral;
+              border-bottom: 4px solid black;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .small-chat {
+    width: 30%;
+    float: right;
+  }
+}
