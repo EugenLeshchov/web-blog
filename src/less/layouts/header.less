@@ -101,22 +101,27 @@ header {
       margin: 0;
 
       padding-left: 0;
-      color: @coral;
       list-style: none;
 
       li {
-        padding: 10px 20px;
-        background-color: @naval;
+        a {
+          display: block;
+          text-decoration: none;
+          color: @coral;
 
-        border-bottom: 3px solid @naval;
+          padding: 10px 20px;
+          background-color: @naval;
 
-        transition-duration: .3s;
-        
-        &:hover {
-          color: black;
-          cursor: pointer;
-          background-color: @coral;
           border-bottom: 3px solid @naval;
+
+          transition-duration: .3s;
+
+          &:hover {
+            color: black;
+            cursor: pointer;
+            background-color: @coral;
+            border-bottom: 3px solid @naval;
+          }
         }
       }
     }

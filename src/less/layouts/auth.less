@@ -26,6 +26,26 @@
       &.sign-in-email, &.sign-in-password {
         width: 100%;
       }
+
+      &.sign-in-submit {
+        float: right;
+        background-color: @coral;
+
+        &:hover {
+          color: @coral;
+          background-color: @naval;
+          border-bottom: 2px solid @coral;
+        }
+      }
+    }
+    
+    .sign-in-forget {
+      color: @coral;
+      text-decoration: none;
+
+      &:hover {
+        color: darken(@coral, 20%);
+      }
     }
   }
 
@@ -58,6 +78,18 @@
 
       &::-webkit-input-placeholder {
         color: white;
+      }
+
+      &.reg-submit {
+        color: white;
+        float: right;
+        background-color: @naval;
+
+        &:hover {
+          color: @coral;
+          background-color: @aluminium;
+          border-bottom: 2px solid @coral;
+        }
       }
     }
   }
