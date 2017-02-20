@@ -24,7 +24,7 @@
             <entry file="file://$PROJECT_DIR$/src/less/document.less">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="198">
-                  <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+                  <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
                   <folding />
                 </state>
               </provider>
@@ -43,17 +43,17 @@
           <file leaf-file-name="small-chat.less" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/less/blocks/small-chat.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-270">
+                <state relative-caret-position="-594">
                   <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="auth.less" pinned="false" current-in-tab="true">
+          <file leaf-file-name="auth.less" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/less/layouts/auth.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="18">
+                <state relative-caret-position="144">
                   <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
                   <folding />
                 </state>
@@ -75,8 +75,8 @@
           <file leaf-file-name="styles.less" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/less/styles.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="126">
-                  <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+                <state relative-caret-position="216">
+                  <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
                   <folding />
                 </state>
               </provider>
@@ -85,8 +85,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/html/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="251">
-                  <caret line="25" column="46" lean-forward="false" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+                <state relative-caret-position="126">
+                  <caret line="46" column="20" lean-forward="false" selection-start-line="46" selection-start-column="20" selection-end-line="50" selection-end-column="29" />
                   <folding>
                     <element signature="e#1365#1373#0" expanded="true" />
                     <element signature="e#1682#1690#0" expanded="true" />
@@ -125,24 +125,28 @@
               </provider>
             </entry>
           </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
           <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/html/post.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="448">
-                  <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+                <state relative-caret-position="221">
+                  <caret line="133" column="442" lean-forward="false" selection-start-line="133" selection-start-column="442" selection-end-line="133" selection-end-column="442" />
                   <folding>
                     <element signature="n#style#0;n#svg#0;n#a#0;n#li#0;n#ul#0;n#footer#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#svg#0;n#a#0;n#li#1;n#ul#0;n#footer#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="e#6796#6802#0" expanded="true" />
+                    <element signature="n#style#0;n#svg#0;n#button#0;n#form#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#svg#0;n#a#0;n#p#0;n#li#0;n#ul#0;n#section#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#svg#0;n#a#0;n#p#0;n#li#1;n#ul#0;n#section#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#svg#0;n#a#0;n#p#0;n#li#2;n#ul#0;n#section#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="e#12437#12443#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
           <file leaf-file-name="footer.less" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/less/layouts/footer.less">
               <provider selected="true" editor-type-id="text-editor">
@@ -168,9 +172,21 @@
           <file leaf-file-name="main.less" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/less/layouts/main.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-254">
-                  <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+                <state relative-caret-position="0">
+                  <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="post-comments.less" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/less/blocks/post-comments.less">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="200">
+                  <caret line="50" column="49" lean-forward="false" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
+                  <folding>
+                    <element signature="e#1167#2072#0" expanded="false" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -217,14 +233,15 @@
         <option value="$PROJECT_DIR$/src/less/blocks/small-chat.less" />
         <option value="$PROJECT_DIR$/src/less/layouts/header.less" />
         <option value="$PROJECT_DIR$/src/less/layouts/page-post.less" />
-        <option value="$PROJECT_DIR$/src/less/styles.less" />
         <option value="$PROJECT_DIR$/src/less/layouts/blog-post.less" />
         <option value="$PROJECT_DIR$/src/less/blocks/post.less" />
         <option value="$PROJECT_DIR$/src/html/index.html" />
         <option value="$PROJECT_DIR$/src/html/auth.html" />
-        <option value="$PROJECT_DIR$/src/html/post.html" />
-        <option value="$PROJECT_DIR$/src/less/document.less" />
         <option value="$PROJECT_DIR$/src/less/layouts/auth.less" />
+        <option value="$PROJECT_DIR$/src/less/document.less" />
+        <option value="$PROJECT_DIR$/src/less/styles.less" />
+        <option value="$PROJECT_DIR$/src/html/post.html" />
+        <option value="$PROJECT_DIR$/src/less/blocks/post-comments.less" />
       </list>
     </option>
   </component>
@@ -238,10 +255,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1081" />
-    <option name="y" value="457" />
+    <option name="x" value="377" />
+    <option name="y" value="52" />
     <option name="width" value="1579" />
-    <option name="height" value="737" />
+    <option name="height" value="732" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -534,15 +551,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487445089333</updated>
-      <workItem from="1487445093103" duration="52521000" />
+      <workItem from="1487445093103" duration="58256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52521000" />
+    <option name="totallyTimeSpent" value="58256000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1081" y="457" width="1579" height="737" extended-state="0" />
+    <frame x="377" y="52" width="1579" height="732" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21659277" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -552,7 +569,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289855" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33138686" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -688,14 +705,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/less/layouts/main.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-254">
-          <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/images/my-avatar.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -725,14 +734,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/less/blocks/small-chat.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/images/svg/star.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -749,24 +750,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/less/styles.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/less/layouts/blog-post.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64">
-          <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-          <folding>
-            <marker date="1487539468913" expanded="false" signature="1243:1398" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/less/blocks/post.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -774,22 +757,6 @@
           <folding>
             <element signature="e#44#66#0" expanded="false" />
             <element signature="e#250#1233#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="25" column="46" lean-forward="false" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-          <folding>
-            <element signature="e#1365#1373#0" expanded="true" />
-            <element signature="e#1682#1690#0" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#li#0;n#ul#0;n#section#0;n#header#0;n#article#0;n#aside#0;n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#li#1;n#ul#0;n#section#0;n#header#0;n#article#0;n#aside#0;n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#li#2;n#ul#0;n#section#0;n#header#0;n#article#0;n#aside#0;n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#button#0;n#form#0;n#aside#1;n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#12033#12039#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -804,30 +771,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-          <folding>
-            <element signature="n#style#0;n#svg#0;n#a#0;n#li#0;n#ul#0;n#footer#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#a#0;n#li#1;n#ul#0;n#footer#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#6796#6802#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/less/layouts/header.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-164">
           <caret line="105" column="10" lean-forward="true" selection-start-line="105" selection-start-column="10" selection-end-line="105" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/less/document.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -842,11 +789,95 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/less/document.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/less/layouts/auth.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
+        <state relative-caret-position="144">
           <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/less/styles.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="46" column="20" lean-forward="false" selection-start-line="46" selection-start-column="20" selection-end-line="50" selection-end-column="29" />
+          <folding>
+            <element signature="e#1365#1373#0" expanded="true" />
+            <element signature="e#1682#1690#0" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#li#0;n#ul#0;n#section#0;n#header#0;n#article#0;n#aside#0;n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#li#1;n#ul#0;n#section#0;n#header#0;n#article#0;n#aside#0;n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#li#2;n#ul#0;n#section#0;n#header#0;n#article#0;n#aside#0;n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#button#0;n#form#0;n#aside#1;n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#12033#12039#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/less/layouts/blog-post.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64">
+          <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding>
+            <marker date="1487539468913" expanded="false" signature="1243:1398" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/less/layouts/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/less/blocks/small-chat.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594">
+          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="133" column="442" lean-forward="false" selection-start-line="133" selection-start-column="442" selection-end-line="133" selection-end-column="442" />
+          <folding>
+            <element signature="n#style#0;n#svg#0;n#a#0;n#li#0;n#ul#0;n#footer#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#li#1;n#ul#0;n#footer#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#button#0;n#form#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#p#0;n#li#0;n#ul#0;n#section#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#p#0;n#li#1;n#ul#0;n#section#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#p#0;n#li#2;n#ul#0;n#section#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#12437#12443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/less/blocks/post-comments.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="50" column="49" lean-forward="false" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
+          <folding>
+            <element signature="e#1167#2072#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
